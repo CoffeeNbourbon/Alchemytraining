@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 
-// Deployed to goerli at 0xCa2E94B7d671C5288d8F25700f1c53739e845843
+
 
 contract BuyMeACoffee {
 
